@@ -17,7 +17,8 @@ navigation_weight: 2
 
 <p class="textblock" markdown="1">
 
-A Full Professor in KMi, OU, where he leads the Social Data Science group. Harith published over 150 scientific papers in various leading journals and conferences. He was co-organiser of 9 workshops, and occupied prominent roles in the Organisation Committee of many international conferences, including ISWC, ESWC, The Web Conf, Web Science Conf., and IJCAI. Prof Alani is the architect and OU Principal Investigator of H2020 Co-Inform project (co-inform.eu), which is investigating misinformation patterns and detection methods on social media. He was Coordinator of H2020 DecarboNet and COMRADES projects. His expertise in misinformation and social media analysis is core to this workshop.
+Professor of Web Science and leader of the Social Data Science group at the Knowledge Media institute, The Open University (OU), UK. Harith's work is mainly focused on applying computational methods to better model, understand and track various social phenomena on the web. He published over 150 scientific papers in various leading journals and conferences, and has taken various roles in the organisation committees of top tier scientific conferences, such as The Web Conf., ISWC, and WebSci. Harith is the architect and OU Principal Investigator of Co-Infom - [website](https://coinform.eu/) which is dedicated to the study of online misinformation.
+
 </p>
 
 </section>
